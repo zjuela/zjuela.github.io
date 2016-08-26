@@ -13,7 +13,6 @@ My research interests include computational photography and computer vision, esp
 Prior to that, I got my B.S. in mathematics (Honors) from [Zhejiang University](http://www.zju.edu.cn/english/) in 2009.
 
 <br>
-<br>
 
 ### Publication
 <li><p>
