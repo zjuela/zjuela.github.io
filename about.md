@@ -13,19 +13,29 @@ Prior to that, I got my B.S. in mathematics (Honors) from [Zhejiang University](
 
 
 ### Publication
-L0-Regularized Intensity and Gradient Prior for Deblurring Text Images and Beyond
-Jinshan Pan, 'Zhe Hu', Zhixun Su and Ming-Hsuan Yang
-accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+<li><p>
+<b>L0-Regularized Intensity and Gradient Prior for Deblurring Text Images and Beyond</b>
+<br>Jinshan Pan, <u>Zhe Hu</u>, Zhixun Su and Ming-Hsuan Yang <br> 
+<i>accepted in  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>.<br>
+</p></li>
 
-Image Deblurring using Smartphone Inertial Sensors
-'Zhe Hu', Lu Yuan, Steve Lin and Ming-Hsuan Yang
-IEEE Conference on Computer Vision and Pattern Recognition 
-(CVPR 2016), Las Vegas, US, 2016.
 
-A Comparative Study for Single-Image Blind Deblurring
-Wei-Sheng Lai, Jia-Bin Huang, 'Zhe Hu', Narendra Ahuja and Ming-Hsuan Yang  
-IEEE Conference on Computer Vision and Pattern Recognition 
-(CVPR 2016), Las Vegas, US, 2016. (<FONT COLOR="RED">Spotlight oral presentation</FONT>)
+
+<li><p>
+<b>Image Deblurring using Smartphone Inertial Sensors</b>
+<br><u>Zhe Hu</u>, Lu Yuan, Steve Lin and Ming-Hsuan Yang <br> 
+<i>IEEE Conference on Computer Vision and Pattern Recognition 
+(CVPR 2016)</i>
+, Las Vegas, US, 2016.<br>
+</p></li>
+
+<li><p>
+<b>A Comparative Study for Single-Image Blind Deblurring</b>
+<br>Wei-Sheng Lai, Jia-Bin Huang, <u>Zhe Hu</u>, Narendra Ahuja and Ming-Hsuan Yang <br> 
+<i>IEEE Conference on Computer Vision and Pattern Recognition 
+(CVPR 2016)</i>
+, Las Vegas, US, 2016. (<FONT COLOR="RED">Spotlight oral presentation</FONT>) <br>
+</p></li>
 
 <li><p>
 <b>Soft-Segmentation Guided Object Motion Deblurring</b>
@@ -122,10 +132,24 @@ Hong Kong, China, September, 2010.<br>
 <a href="https://eng.ucmerced.edu/people/zhu/ICIP10_deblur.zip">
 [MATLAB code]</a>
 </p></li>
-</ul>	
+
+
 
 ### Professional Service
-* Co-chair:
-* Journal Reviewer:
-* Program Committee/Reviewer:
-
+<li><p>
+Co-chair: <a href="https://sites.google.com/site/irew2014/">Emerging Topics on Image Restoration and Enhancement</a> (IREw) workshop in ACCV 2014
+</p></li>
+<li><p>
+Journal Reviewer:  <br />
+- IEEE Transaction on Image Processing <br />
+- IEEE Transaction on Cybernetics <br />
+- The Visual Computer <br />
+- Eurographics<br />
+- Pattern Recognition Letters <br />
+</p></li>
+<li><p>
+Program Committee/Reviewer: <br />
+- ECCV 2014 <br />
+- ACCV 2014 <br />
+- ICCV 2015 <br />
+</p></li>
