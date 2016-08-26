@@ -12,7 +12,7 @@ Prior to that, I got my B.S. in mathematics (Honors) from [Zhejiang University](
 
 
 
-### Publication
+### '''Publication'''
 <li><p>
 <b>L0-Regularized Intensity and Gradient Prior for Deblurring Text Images and Beyond</b>
 <br>Jinshan Pan, <u>Zhe Hu</u>, Zhixun Su and Ming-Hsuan Yang <br> 
@@ -48,7 +48,7 @@ Prior to that, I got my B.S. in mathematics (Honors) from [Zhejiang University](
 
 <li><p>
 <b>Deblurring Face Images with Exemplars</b>
-<br>Jinshan Pan&#42, <u>Zhe Hu</u>&#42, Zhixun Su and Ming-Hsuan Yang (&#42 indicates equal contribution)<br> 
+<br>Jinshan Pan, <u>Zhe Hu</u>, Zhixun Su and Ming-Hsuan Yang<br> 
 <i>Proceedings of European Conference on Computer Vision 
 (ECCV 2014)</i>
 , Zurich, Switzerland, 2014.<br>
@@ -103,6 +103,7 @@ Firenze, Italy, October, 2012. (<FONT COLOR="RED">Oral presentation, Acceptance 
 <a href="https://eng.ucmerced.edu/people/zhu/ECCV12_code.zip">
 [MATLAB code]</a> 
 <br />
+
 <b>Learning Good Regions to Deblur Image</b> 
 <br><u>Zhe Hu</u> and Ming-Hsuan Yang<br> 
 <i>accepted in International Journal on Computer Vision (IJCV)</i><br>
@@ -135,7 +136,7 @@ Hong Kong, China, September, 2010.<br>
 
 
 
-### Professional Service
+### ''Professional Service''
 <li><p>
 Co-chair: <a href="https://sites.google.com/site/irew2014/">Emerging Topics on Image Restoration and Enhancement</a> (IREw) workshop in ACCV 2014
 </p></li>
