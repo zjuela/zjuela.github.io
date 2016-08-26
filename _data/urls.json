@@ -5,6 +5,11 @@
     "icon": "fa-comments"
   },
   {
+    "text": "Service",
+    "url": "/service/",
+    "icon": "fa-bookmark"
+  },
+  {
     "text": "Blog",
     "url": "/",
     "icon": "fa-home",
