@@ -12,8 +12,8 @@ disqus_shortname: aboutzhe
 google_analytics: UA-72862926-1
 
 share:
-%  twitter_username: \#
-%  fb_appid: 000000000000
+twitter_username: \#
+fb_appid: 000000000000
 
 
 enableTags: true
