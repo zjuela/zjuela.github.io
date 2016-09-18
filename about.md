@@ -77,7 +77,6 @@ Proceedings of British Machine Vision Conference (BMVC 2012)(<FONT COLOR="RED">O
 <pre><code>Single Image Deblurring with Adaptive Dictionary Learning
 <u>Zhe Hu</u>, Jia-Bin Huang and Ming-Hsuan Yang
 Proceedings of IEEE International Conference on Image Processing (ICIP 2010)
-<a href="https://eng.ucmerced.edu/people/zhu/AdaptDict.html">[Project page]</a><a href="https://eng.ucmerced.edu/people/zhu/ICIP10.pdf">[PDF]</a><a href="https://eng.ucmerced.edu/people/zhu/ICIP10_poster.pdf">[Poster]</a><a href="https://eng.ucmerced.edu/people/zhu/ICIP10_deblur.zip">
-[MATLAB code]</a>
+<a href="https://eng.ucmerced.edu/people/zhu/AdaptDict.html">[Project page]</a><a href="https://eng.ucmerced.edu/people/zhu/ICIP10.pdf">[PDF]</a><a href="https://eng.ucmerced.edu/people/zhu/ICIP10_poster.pdf">[Poster]</a><a href="https://eng.ucmerced.edu/people/zhu/ICIP10_deblur.zip">[MATLAB code]</a>
 </code></pre>
 
