@@ -8,5 +8,5 @@ categories: others
 Hello world!
 This is the first test page in my blog.
 
-![be happy](/assets/behappy.jpg);
+![be happy](/assets/behappy.jpg){:height="128px" width="128px"}
 
