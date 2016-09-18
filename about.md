@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-<code>Research Scientist at <a href="https://light.co">[Light Co.]</a></code>
+<code>Research Scientist @ <a href="https://light.co">[light]</a></code>
 
-I received my Phd in Computer Science at [University of California, Merced](http://www.ucmerced.edu/), working with Prof. [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). 
-                                
-My research interests include computational photography and computer vision, especially on developing algorithms for image restoration.
-                               
-Prior to that, I got my B.S. in mathematics (Honors) from [Zhejiang University](http://www.zju.edu.cn/english/) in 2009.
+<pre><code>
+Ph.D. in Computer Science @ UC Merced
+B.S.  in mathematics (Honors) @ Zhejiang University
+</code></pre>
 
-<br>
+
 
 <h3>Publication</h3>
 
