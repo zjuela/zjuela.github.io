@@ -14,12 +14,12 @@ Prior to that, I got my B.S. in mathematics (Honors) from [Zhejiang University](
 
 <br>
 
-### Publication
-<li><p>
+<h3>Publication</h3>
+<blockquote><li><p>
 <b>L0-Regularized Intensity and Gradient Prior for Deblurring Text Images and Beyond</b>
 <br>Jinshan Pan, <u>Zhe Hu</u>, Zhixun Su and Ming-Hsuan Yang <br> 
 <i>accepted in  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>.<br>
-</p></li>
+</p></li></blockquote>
 
 
 
