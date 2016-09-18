@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Research Scientist at [Light Co.](https://light.co). 
+<code>Research Scientist at <a href="https://light.co">[Light Co.]</a></code>
 
 I received my Phd in Computer Science at [University of California, Merced](http://www.ucmerced.edu/), working with Prof. [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). 
                                 
