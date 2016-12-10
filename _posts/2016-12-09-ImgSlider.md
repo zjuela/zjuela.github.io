@@ -7,17 +7,8 @@ categories: others
 
 Image slider test using twentytwenty.
 
-
-<div>
 <div id="container1" class='twentytwenty-container'>
 <img src="https://eng.ucmerced.edu/people/zhu/figs/CVPR14_lightstreak_26" width="600" height="400"/>
 <img src="https://eng.ucmerced.edu/people/zhu/figs/CVPR14_lightstreak_26" width="600" height="400"/>
-</div>
-
-<script>
-$(window).load(function(){
-  $("#container1").twentytwenty();
-});
-</script>
 </div>
 
