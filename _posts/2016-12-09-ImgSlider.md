@@ -16,8 +16,7 @@ categories: others
 </div>
 
 <script>
-{
-}
+
 $(window).load(function(){
   $("#container1").twentytwenty();
 });
