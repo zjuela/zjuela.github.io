@@ -5,10 +5,10 @@ date:   2016-11-21 11:41:39
 categories: others
 ---
 
-<script src="/static/js/jquery-2.1.0.min.js" type="text/javascript"></script>
-<script src="/static/js/jquery.event.move.js" type="text/javascript"></script>
-<script src="/static/js/jquery.twentytwenty.js" type="text/javascript"></script>
-<link rel="stylesheet" href="/static/css/twentytwenty.css" type="text/css" media="screen" />
+<script src="/static/js/jquery.min.js"></script>
+<script src="/static/js/jquery.event.move.js"></script>
+<script src="/static/js/jquery.twentytwenty.js"></script>
+<link rel="stylesheet" href="/static/css/twentytwenty.css" media="screen" />
 
 <div id="container1">
  <!-- The before image is first -->
@@ -21,7 +21,4 @@ $(window).load(function(){
   $("#container1").twentytwenty();
 });
 
-<br>
-
-![autopilot](/assets/autopilot_2_hardware.jpg){:height="400px" width="600px"}
 
