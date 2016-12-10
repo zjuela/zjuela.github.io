@@ -10,15 +10,14 @@ categories: others
 <script src="/static/js/jquery.twentytwenty.js"></script>
 <link rel="stylesheet" href="/static/css/twentytwenty.css" media="screen" />
 
-<div id="container1">
- <!-- The before image is first -->
+<div id="container1" class='twentytwenty-container'>
  <img src="/assets/autopilot_2_hardware.jpg" width="600px" height="400px"/>
- <!-- The after image is last -->
  <img src="/assets/autopilot_2_hardware.jpg" width="600px" height="400px"/>
 </div>
 
+<script>
 $(window).load(function(){
   $("#container1").twentytwenty();
 });
-
+</script>
 
