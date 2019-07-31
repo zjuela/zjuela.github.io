@@ -63,13 +63,13 @@
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
 					<ul>
-						<!-- <li class="active"><a href="#" data-nav-section="home">Home</a></li> -->
-						<li class="active"><a href="#" data-nav-section="about">About</a></li>
+						<li class="active"><a href="#" data-nav-section="home">Home</a></li>
+						<li><a href="#" data-nav-section="about">About</a></li>
 						<li><a href="#" data-nav-section="experience">Experience</a></li>
 						<li><a href="#" data-nav-section="education">Education</a></li>
 						<li><a href="#" data-nav-section="publications">Publications</a></li>
 						<li><a href="#" data-nav-section="services">Services</a></li>
-						<!-- <li><a href="#" data-nav-section="blog">Blog</a></li> -->
+						<li><a href="#" data-nav-section="blog">Blog</a></li>
 						<li><a href="#" data-nav-section="contact">Contact</a></li>
 					</ul>
 				</div>
@@ -77,7 +77,7 @@
 
 			<div class="colorlib-footer">
 				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> </span></small></p>
 				<ul>
 					<li><a href="#"><i class="icon-facebook2"></i></a></li>
@@ -90,7 +90,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		</aside>
 
 		<div id="colorlib-main">
-			<!-- <section id="colorlib-hero" class="js-fullheight" data-section="home">
+			<section id="colorlib-hero" class="js-fullheight" data-section="home">
 				<div class="flexslider js-fullheight">
 					<ul class="slides">
 				   	<li style="background-image: url(images/img_bg_1.jpg);">
@@ -127,7 +127,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 				   	</li>
 				  	</ul>
 			  	</div>
-			</section> -->
+			</section>
 
 			<section class="colorlib-about" data-section="about">
 				<div class="colorlib-narrow-content">
@@ -138,7 +138,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									<div class="about-desc">
 										<span class="heading-meta">About Us</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>I'm Zhe Hu.</strong> I am a Senior Research Scientist at Hikvision now.</p>
+										<p><strong>Hi I'm Zhe Hu.</strong> I am a Senior Research Scientist at Hikvision now.</p>
 										<p>I worked at <a href="https://light.co">Light</a> for 2 years to make an innovative camera L16 (<a href="https://www.ces.tech/Events-Programs/Innovation-Awards/honorees">CES 2018 Innovation Awards</a>, top 10 gadgets by <a href="https://www.popsci.com/top-gadget-innovations-2017">Popular Science</a> in 2017 and <a href="http://time.com/collection-post/4105591/top-10-gadgets/">TIME</a> in 2015). The camera is already in the market!!/p>
 
 										<p>I received my Phd in Computer Science at <a href="http://www.ucmerced.edu/">University of California, Merced</a>, working with Prof. <a href="http://faculty.ucmerced.edu/mhyang/">Ming-Hsuan Yang</a>. My research interests include computer vision, computational photography and machine learning.</p>
@@ -254,7 +254,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									<div class="panel panel-default">
 									    <div class="panel-heading" role="tab" id="headingOne">
 									        <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Ph.D. in Computer Science
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Ph.D. in Computer Science
 									            </a>
 									        </h4>
 									    </div>
@@ -334,11 +334,13 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<a href="https://sites.google.com/site/jspanhomepage/facedeblurring">[Project page]</a>
 						</p></li>
 
+
 						<li><p>
 						<b>Deblurring Low-light Images with Light Streaks</b>
 						<br> <u>Zhe Hu</u>, Sunghyun Cho, Jue Wang and Ming-Hsuan Yang<br> 
 						<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2017</i>.<br>
 						</p></li>
+
 
 						<li><p>
 						<b>L0-Regularized Intensity and Gradient Prior for Deblurring Text Images and Beyond</b>
@@ -346,6 +348,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2016</i>.<br>
 						<a href="http://vllab1.ucmerced.edu/~jinshan/projects/text-deblur/">[Project page]</a>
 						</p></li>
+
+
 
 						<li><p>
 						<b>Image Deblurring using Smartphone Inertial Sensors</b>
@@ -370,6 +374,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						(CVPR 2016)</i>
 						, Las Vegas, US, 2016.<br>
 						</p></li>
+
 
 						<li><p>
 						<b>Deblurring Face Images with Exemplars</b>
@@ -415,6 +420,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<a HREF="https://eng.ucmerced.edu/people/zhu/CVPR14_text_code_blind.zip">
 						[MATLAB code]</a>
 						</p></li>
+
 
 						<li><p>
 						<b>Good Regions to Deblur</b>
@@ -504,11 +510,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						- ...<br />
 						</p></li>
 					</ul>
+					</div>
 				</div>
 			</section>
 
 
-			<!-- <section class="colorlib-blog" data-section="blog">
+			<section class="colorlib-blog" data-section="blog">
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -554,7 +561,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						</div>
 					</div>
 				</div>
-			</section> -->
+			</section>
 
 			<section class="colorlib-contact" data-section="contact">
 				<div class="colorlib-narrow-content">
@@ -580,8 +587,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									<i class="icon-map"></i>
 								</div>
 								<div class="colorlib-text">
-									<p>5201 Great America Pkwy, Suite 220</p>
-									<p>Santa Clara, CA 95054</p>
+									<p>5201 Great America Pkwy, Suite 220, Santa Clara, CA 95054</p>
 								</div>
 							</div>
 
