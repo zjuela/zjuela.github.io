@@ -214,6 +214,7 @@ figure {
             text-decoration: none;
             outline: none;
             color: #2c98f0; }
+  
 
 .container-wrap {
   max-width: 1170px;
@@ -229,6 +230,10 @@ figure {
     #colorlib-main {
       width: 100%;
       padding: 0 1em; } }
+  #colorlib-main .map-counter {
+    /*float: left;*/
+    margin-left: 100px;
+    width: 300px; }
 
 #colorlib-hero {
   min-height: 500px;
